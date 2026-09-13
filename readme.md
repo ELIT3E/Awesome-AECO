@@ -227,6 +227,8 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Self-hosted Computerized Maintenance Management System. Allows teams to schedule work orders and manage inventory.
   *GitHub: [Grashjs/cmms](https://github.com/Grashjs/cmms)*
 
+- [Open Cleaning Plan Schema](https://xn--jonas-gebudereinigung-e2b.de/wp-content/uploads/2026/08/reinigungsplan-schema-1.0.0.json) - Apache-2.0 JSON Schema for exchanging structured cleaning plans, including areas, service frequencies, responsibilities, and quality criteria.
+
 ## Generative Design
 
 - **Anton**
